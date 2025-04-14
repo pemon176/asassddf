@@ -1,0 +1,5 @@
+/home/pemon/Documents/test_project/build/CMakeFiles/main.dir
+/home/pemon/Documents/test_project/build/CMakeFiles/testsuite.dir
+/home/pemon/Documents/test_project/build/CMakeFiles/test.dir
+/home/pemon/Documents/test_project/build/CMakeFiles/edit_cache.dir
+/home/pemon/Documents/test_project/build/CMakeFiles/rebuild_cache.dir

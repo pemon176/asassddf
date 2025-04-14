@@ -1,0 +1,20 @@
+I have the following directory structure:
+
+src/headers.h
+
+src/main.cpp
+
+tests/main_test.cpp
+
+I will provide a problem statement.
+You will:
+
+Choose the most suitable design pattern to solve the problem.
+
+Implement the solution using that design pattern only.
+
+Generate C++ code organized into the 3 files listed above.
+
+🔴 Do not include the version of the solution without the design pattern.
+
+✅ Stick to clean, structured, and testable C++ code.
